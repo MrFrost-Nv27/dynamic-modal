@@ -1,0 +1,19 @@
+{
+    "name": "mrfrost/dynamic-modal",
+    "description": "Dynamic modal Generator with php and css framework",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mrfrost\\DynamicModal\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MrFrost-Nv27",
+            "email": "nazruelyourgoodfriend@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
